@@ -71,31 +71,7 @@ $result = $cnx->query($sql);
 </section>
 
 <footer>
-    	<div class="box-top">
-    		<div class="container">
-    			<a href="https://www.cihbank.ma/accueil" class="logo">
-    				<img src="https://www.cihbank.ma/themes/ciht/images/logo-footer.png" alt="Cih Bank">
-    			</a>
-    			<div class="menu-footer">	
-    				<div class="col">
-    					<a href="#" class="title">CIH BANK</a>
-    					<ul>
-    						<li>
-                    	    <a href="https://www.cihbank.ma/en/cih-bank-Group">
-    							CIH BANK Group
-    						</a>
-    						</li>
-    						
-    				</div>
-    			</div>
-    			<p>
-    				CIH BANK est assujetti à la loi N° 09-08, relative à la protection des personnes physiques à l'égard du traitement des données personnelles et elle a pris ses dispositions pour en respecter la lettre et l'esprit.
-    			</p>
-    		</div>	
-    	</div>
-    	<div class="box-bottom">
-    		<div class="container">
-    			<ul>
+    <ul>
     				<li>
     					<a href="https://www.cihbank.ma/notice-legale">
     						Notice légale 
@@ -115,30 +91,9 @@ $result = $cnx->query($sql);
     					</a>
     				</li>
     			</ul>
-				© 2023 CIH BANK
-    			<div class="reseau-sociaux">
-    				<a href="https://www.facebook.com/cihbank/" class="facebook" target="_blank">
-    					<i class="fa fa-facebook"></i>
-    				</a>
-    				<a href="https://twitter.com/cihbank" class="twitter" target="_blank">
-    					<i class="fa fa-twitter"></i>
-    				</a>
-    				<a href="https://www.instagram.com/cihbankma/" class="instagram" target="_blank">
-    					<i class="fa fa-instagram"></i>
-    				</a>
-    				<a href="https://www.youtube.com/channel/UC2sZyU1dfxLlMIBGGvquJWg" class="youtube" target="_blank">
-    					<i class="fa fa-youtube-play"></i>
-    				</a>
-    				<a href="https://www.linkedin.com/company/cihbank/" class="linkedin" target="_blank">
-    					<i class="fa fa-linkedin"></i>
-    				</a>
-    			</div>
-    			<h1>
-    			    © 2023 CIH BANK
-    			</h1>
-    			<div class="clr"></div>
-    		</div>
-    	</div>	
+			
+        <p>	© 2023 CIH BANK</p>
     </footer>
+
 </body>
 </html>

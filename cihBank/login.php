@@ -25,7 +25,7 @@ if ($result->num_rows > 0) {
     // output data of each row
     while($row = $result->fetch_assoc()) {
         if ($row['role'] == 1) { // if admin redirect to dashboard
-            header("Location:./home.php");
+            header("Location:./admin.php");
         } else { // client redirect to home page as client
             header("Location:./home.php");
         }
